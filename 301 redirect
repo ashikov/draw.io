@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T09:48:39.195Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.2" etag="o83Swdfv0uYV6qCsTJZ7" type="github"><diagram id="KFJeexwxt8ub7NXerVCd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-10T10:00:25.815Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="es7HCF0nnz0htgF1peEq" version="13.6.2" type="github">
+  <diagram id="KFJeexwxt8ub7NXerVCd" name="Page-1">
+    <mxGraphModel dx="774" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-2" value="Клиент" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="78.14" height="105.9" as="geometry" />
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-3" value="Сервер&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="84.72" height="105.9" as="geometry" />
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="274" as="sourcePoint" />
+            <mxPoint x="646" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-5" value="Запрашивает страницу&amp;nbsp;&lt;span style=&quot;color: inherit ; font-family: , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; background-color: rgb(248 , 248 , 248) ; text-align: left&quot;&gt;http://hexlet.io/&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dE0AetDGVv_thCDYZ8y7-4">
+          <mxGeometry x="-0.3492" y="1" relative="1" as="geometry">
+            <mxPoint x="41.27" y="-14.28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="340" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-7" value="Отправляет ответ&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: inherit ; font-family: , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; background-color: rgb(248 , 248 , 248) ; text-align: left&quot;&gt;301 Moved Permanently&amp;nbsp;&lt;br&gt;Location: https://hexlet.io&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dE0AetDGVv_thCDYZ8y7-6">
+          <mxGeometry x="0.1043" y="-4" relative="1" as="geometry">
+            <mxPoint x="22" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="380" as="sourcePoint" />
+            <mxPoint x="640" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-9" value="&lt;span style=&quot;color: inherit ; font-family: , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; background-color: rgb(248 , 248 , 248) ; text-align: left&quot;&gt;Запрашивает страницу&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(248 , 248 , 248)&quot;&gt;https://hexlet.io&lt;/span&gt;&lt;span style=&quot;color: inherit ; font-family: , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; background-color: rgb(248 , 248 , 248) ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="390" as="geometry">
+            <mxPoint x="6" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="420" as="sourcePoint" />
+            <mxPoint x="354" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dE0AetDGVv_thCDYZ8y7-11" value="Отправляет запрошенную страницу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dE0AetDGVv_thCDYZ8y7-10">
+          <mxGeometry x="0.1119" y="3" relative="1" as="geometry">
+            <mxPoint x="19" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
