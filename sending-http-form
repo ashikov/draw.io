@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T08:01:09.635Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.2" etag="dOpa124tYOlYeOa8VWzB" type="github"><diagram id="jmlAEgyS3-A6lfKaPcEB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-13T08:14:40.943Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="axiWro2BtK7F-XMq4kf4" version="13.6.2" type="github">
+  <diagram id="jmlAEgyS3-A6lfKaPcEB" name="Page-1">
+    <mxGraphModel dx="645" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UoAr_n5NUZHaXALETv-L-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-1" value="Имя&#xa;" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="30" relative="1" as="geometry">
+            <mxPoint x="133" y="140" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-2" value="smith" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="270" height="30" relative="1" as="geometry">
+            <mxPoint x="133" y="180" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-4" value="Пароль" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="133" y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-5" value="12345678" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="270" height="30" relative="1" as="geometry">
+            <mxPoint x="133" y="250" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-7" value="Войти" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry width="90" height="40" relative="1" as="geometry">
+            <mxPoint x="133" y="300" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-11" value="Форма входа на сайт" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-19" value="user[login]=smith&amp;user[password]=12345678" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="250" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-20" value="Пустая строка&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="185" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-21" value="Тело запроса&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-22" value="Заголовки&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="110" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-23" value="Content-Type: application/x-www-form-urlencoded&lt;br&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="140" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-24" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="160" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-25" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="120" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UoAr_n5NUZHaXALETv-L-26" value="Строка запроса" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
