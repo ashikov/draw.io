@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T09:41:40.613Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.2" etag="2W5SbXhgLoSY7BVvTXXy" type="github"><diagram id="z0oV7ZYJnblF5S1FHxTI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-07T09:49:09.260Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="TIavYYSN9mkpVry5Avz2" version="13.6.2" type="github">
+  <diagram id="z0oV7ZYJnblF5S1FHxTI" name="Page-1">
+    <mxGraphModel dx="774" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5o-orc3lM6-ptfomeURj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-2" target="5o-orc3lM6-ptfomeURj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-5" value="&lt;span&gt;Состояние БД до транзакции&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-6" target="5o-orc3lM6-ptfomeURj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-6" value="SELECT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-7" target="5o-orc3lM6-ptfomeURj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-7" value="UPDATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-8" target="5o-orc3lM6-ptfomeURj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-8" value="UPDATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-15" value="&lt;span&gt;Состояние БД после транзакции&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-28" target="5o-orc3lM6-ptfomeURj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-29" value="&lt;span&gt;Состояние БД до транзакции&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-31" target="5o-orc3lM6-ptfomeURj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-31" value="SELECT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-33" value="UPDATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-37" value="&lt;span&gt;СУБД отменяет все изменения&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5o-orc3lM6-ptfomeURj-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-38" value="Программная ошибка или аппаратная ошибка" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="455" y="270" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5o-orc3lM6-ptfomeURj-41" value="" style="endArrow=classicThin;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" target="5o-orc3lM6-ptfomeURj-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="110" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
