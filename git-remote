@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T06:39:51.611Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.7.3" etag="V8t8X9f__x-khXD9ZUzA" type="github"><diagram id="XOqF4Zd3uFdtfTgz8MCZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-27T06:47:41.400Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="-YsAHzNr8buISz6OoyPC" version="13.7.3" type="github">
+  <diagram id="XOqF4Zd3uFdtfTgz8MCZ" name="Page-1">
+    <mxGraphModel dx="774" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="215" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-4" value="&amp;nbsp;git remote -v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3oaC5WNVIJhvUYDOlrHO-7" target="3oaC5WNVIJhvUYDOlrHO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-7" value="&lt;a href=&quot;mailto:git@github.com&quot; style=&quot;cursor: pointer ; overflow-wrap: break-word ; text-decoration: inherit&quot; class=&quot;notion-link-token notion-enable-hover&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;border-bottom: 0.05em solid ; border-color: rgba(55 , 53 , 47 , 0.4) ; opacity: 0.7&quot;&gt;git@github.com&lt;/span&gt;&lt;/a&gt;:hexlet/hexlet-git.git" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/github-128.png" vertex="1" parent="1">
+          <mxGeometry x="506" y="110" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-9" value="&lt;a href=&quot;mailto:git@github.com&quot;&gt;git@github.com&lt;/a&gt;&lt;span&gt;:hexlet/hexlet-git.git&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;/ul&gt;&lt;a href=&quot;mailto:git@github.com&quot;&gt;git@github.com&lt;/a&gt;&lt;span&gt;:&lt;/span&gt;hexlet&lt;span&gt;/hexlet-project.git&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;/ul&gt;&lt;a href=&quot;mailto:git@github.com&quot;&gt;git@github.com&lt;/a&gt;&lt;span&gt;:&lt;/span&gt;hexlet&lt;span&gt;/hexlet-project2.git&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-12" value="Локальный репозиторий" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-13" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
