@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T06:47:41.400Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="-YsAHzNr8buISz6OoyPC" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T06:47:50.746Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="2weNQF4gzcNwnYwAVTq8" version="13.7.3" type="github">
   <diagram id="XOqF4Zd3uFdtfTgz8MCZ" name="Page-1">
     <mxGraphModel dx="774" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="3oaC5WNVIJhvUYDOlrHO-9" value="&lt;a href=&quot;mailto:git@github.com&quot;&gt;git@github.com&lt;/a&gt;&lt;span&gt;:hexlet/hexlet-git.git&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;/ul&gt;&lt;a href=&quot;mailto:git@github.com&quot;&gt;git@github.com&lt;/a&gt;&lt;span&gt;:&lt;/span&gt;hexlet&lt;span&gt;/hexlet-project.git&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;/ul&gt;&lt;a href=&quot;mailto:git@github.com&quot;&gt;git@github.com&lt;/a&gt;&lt;span&gt;:&lt;/span&gt;hexlet&lt;span&gt;/hexlet-project2.git&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="230" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3oaC5WNVIJhvUYDOlrHO-12" value="Локальный репозиторий" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="3oaC5WNVIJhvUYDOlrHO-12" value="Локальный репозиторий" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3oaC5WNVIJhvUYDOlrHO-13" value="GitHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
